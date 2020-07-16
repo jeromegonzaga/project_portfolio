@@ -50,8 +50,10 @@
     <a href="https://github.com/jeromegonzaga/project_portfolio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+<!--
     <a href="https://github.com/jeromegonzaga/project_portfolio">View Demo</a>
     ·
+-->
     <a href="https://github.com/jeromegonzaga/project_portfolio/issues">Report Bug</a>
     ·
     <a href="https://github.com/jeromegonzaga/project_portfolio/issues">Request Feature</a>
@@ -63,9 +65,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+* [Capstone Projects](#capstone-projects)
+  * [Yelp Recommendation System](#yelp-recommendation-system)
+  * [Image Classification & Object Detection](#image-classification-object-detection)
 <!--  * [Built With](#built-with)-->
-* [Getting Started](#getting-started)
+* [Mini-Projects](#mini-projects)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 <!--* [Usage](#usage)-->
@@ -77,15 +81,20 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- CAPSTONE PROJECTS -->
+## Capstone Projects 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Applying data science concepts in real-world applications.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`jeromegonzaga`, `project_portfolio`, `twitter_handle`, `jeromegonzaga@gmail.com`
+### Yelp Recommendation System
 
+Using reviews and ratings from users to determine additional restaurants and businesses to recommend.
+* [Github Repository](https://github.com/jeromegonzaga/capstone_proj_1_final)
+
+### Image Classification & Object Detection
+
+Classifying images into different categories using deep learning, then detecting objects within images using YOLO3 and transfer learning.
+* [Github Repository](https://github.com/jeromegonzaga/capstone_proj_2_milestone_report_2/blob/master/capstone_proj_2_image%20classification%20and%20object%20recognition.ipynb)
 
 <!--### Built With-->
 
@@ -97,21 +106,25 @@ Here's a blank template to get started:
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- MINI-PROJECTS -->
+## Mini-Projects
 
-To get a local copy up and running follow these simple steps.
+Projects to better understand data science concepts
 
-### Prerequisites
+* [JSON Practice](https://github.com/jeromegonzaga/JSON_Based_Data_Exercise):Practice working with JSON format, to extract and manipulate data in JSON, and practice data wrangling skills
+<!--### Prerequisites-->
 
+<!--
 This is an example of how to list things you need to use the software and how to install them.
 * npm
 ```sh
 npm install npm@latest -g
 ```
+-->
 
-### Installation
+<!--### Installation-->
  
+<!--
 1. Clone the project_portfolio
 ```sh
 git clone https://github.com/jeromegonzaga/project_portfolio.git
@@ -119,6 +132,7 @@ git clone https://github.com/jeromegonzaga/project_portfolio.git
 2. Install NPM packages
 ```sh
 npm install
+-->
 ```
 
 
