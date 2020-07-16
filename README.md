@@ -70,14 +70,16 @@
   * [Image Classification & Object Detection](#image-classification-object-detection)
 <!--  * [Built With](#built-with)-->
 * [Mini-Projects](#mini-projects)
+<!--
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+-->
 <!--* [Usage](#usage)-->
 <!--* [Roadmap](#roadmap)-->
 <!--* [Contributing](#contributing)-->
 <!--* [License](#license)-->
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+<!--* [Acknowledgements](#acknowledgements)-->
 
 
 
@@ -111,7 +113,17 @@ Classifying images into different categories using deep learning, then detecting
 
 Projects to better understand data science concepts
 
-* [JSON Practice](https://github.com/jeromegonzaga/JSON_Based_Data_Exercise):Practice working with JSON format, to extract and manipulate data in JSON, and practice data wrangling skills
+* [JSON Practice](https://github.com/jeromegonzaga/JSON_Based_Data_Exercise): Working with JSON format, to extract and manipulate data in JSON, and practice data wrangling skills.
+* [SQL Practice](https://github.com/jeromegonzaga/SQL_practice): Working with SQL-based databases, learn and write basic SQL queries up to basic aggregations and joins, and comment on SQL code.
+* [Data Wrangling](https://github.com/jeromegonzaga/API_data_wrangling): Using APIs to gather data.
+* [Inferential Statistics: Frequentist](https://github.com/jeromegonzaga/Inferential-Statistics-Frequentist): Using frequentist inference to analyze data and apply to real-world settings.
+* [Inferential Statistics: Bootstrapping](https://github.com/jeromegonzaga/Bootstrap_Inference_Mini-Project): Using bootstraping methods to analyze data and apply to real-world settings.
+* [Inferential Statistics: Bayesian](https://github.com/jeromegonzaga/Bayesian_statistics): Using Bayesian statistics to analyze data and apply to real-world settings.
+* [Linear Regression](https://github.com/jeromegonzaga/linear_regression): Creating linear regression models to predict outcomes.
+* [Logistic Regression](https://github.com/jeromegonzaga/logistic-regression): Creating logistic regression models to classify data.
+* [Naivve Bayes](https://github.com/jeromegonzaga/Naive-Bayes): Using Naive Bayes techniques to determine & predict ratings.
+* [Clustering](https://github.com/jeromegonzaga/Clustering): Using Clustering techniques to predict customer behavior. Understanding the use of Principal Component Analysis for dimensional reduction.
+
 <!--### Prerequisites-->
 
 <!--
