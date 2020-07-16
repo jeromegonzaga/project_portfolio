@@ -144,9 +144,9 @@ git clone https://github.com/jeromegonzaga/project_portfolio.git
 2. Install NPM packages
 ```sh
 npm install
--->
-```
 
+```
+-->
 
 
 <!-- USAGE EXAMPLES -->
