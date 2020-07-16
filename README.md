@@ -22,12 +22,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
 
 
@@ -38,17 +40,17 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">PROJECT PORTFOLIO</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    PORTFOLIO OF DATA SCIENCE PROJECTS
     <br />
     <a href="https://github.com/jeromegonzaga/project_portfolio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/jeromegonzaga/project_portfolio">View Demo</a>
     ·
-    <a href="https://github.com/jeromegonzaga/project_portfolio/issues">project_portfoliort Bug</a>
+    <a href="https://github.com/jeromegonzaga/project_portfolio/issues">Report Bug</a>
     ·
     <a href="https://github.com/jeromegonzaga/project_portfolio/issues">Request Feature</a>
   </p>
@@ -60,14 +62,14 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+<!--  * [Built With](#built-with)-->
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
+<!--* [Usage](#usage)-->
+<!--* [Roadmap](#roadmap)-->
+<!--* [Contributing](#contributing)-->
+<!--* [License](#license)-->
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -83,11 +85,13 @@ Here's a blank template to get started:
 `jeromegonzaga`, `project_portfolio`, `twitter_handle`, `jeromegonzaga@gmail.com`
 
 
-### Built With
+<!--### Built With-->
 
+<!--
 * []()
 * []()
 * []()
+-->
 
 
 
@@ -118,31 +122,31 @@ npm install
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!--## Usage-->
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!--Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.-->
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!--## Roadmap-->
 
-See the [open issues](https://github.com/jeromegonzaga/project_portfolio/issues) for a list of proposed features (and known issues).
+<!--See the [open issues](https://github.com/jeromegonzaga/project_portfolio/issues) for a list of proposed features (and known issues).-->
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+<!--## Contributing-->
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+<!--Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.-->
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+<!--1. Fork the Project-->
+<!--2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)-->
+<!--3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)-->
+<!--4. Push to the Branch (`git push origin feature/AmazingFeature`)-->
+<!--5. Open a Pull Request-->
 
 
 
@@ -175,6 +179,7 @@ Project Portfolio Link: [https://github.com/jeromegonzaga/project_portfolio](htt
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!--
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
@@ -188,3 +193,4 @@ Project Portfolio Link: [https://github.com/jeromegonzaga/project_portfolio](htt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+-->
