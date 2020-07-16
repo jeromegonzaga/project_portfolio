@@ -147,18 +147,18 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+<!--## License-->
 
-Distributed under the MIT License. See `LICENSE` for more information.
+<!--Distributed under the MIT License. See `LICENSE` for more information.-->
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/jerome-gonzaga-eit-pmp) - jeromegonzaga@gmail.com
+Jerome Gonzaga - [LinkedIn](https://www.linkedin.com/in/jerome-gonzaga-eit-pmp) - jeromegonzaga@gmail.com
 
-Project Link: [https://github.com/jeromegonzaga/project_portfolio](https://github.com/jeromegonzaga/project_portfolio)
+Project Portfolio Link: [https://github.com/jeromegonzaga/project_portfolio](https://github.com/jeromegonzaga/project_portfolio)
 
 
 
